@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 天行健 君子以自强不息
 
 You can use the [editor on GitHub](https://github.com/e2fs/gri2f.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
